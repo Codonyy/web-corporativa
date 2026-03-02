@@ -24,3 +24,97 @@ La incubadora d’empreses proposa una **formació intensiva sobre el protocol H
 ## 🌐 Què passa quan fem clic a un enllaç?
 
 Quan un usuari escriu una URL com:
+
+
+es produeixen diversos processos:
+
+### 1️⃣ Resolució DNS
+El navegador consulta un servidor DNS per convertir el nom de domini en una adreça IP.
+
+Exemple:
+
+
+---
+
+### 2️⃣ Connexió TCP
+El navegador estableix una connexió amb el servidor web mitjançant el protocol TCP.
+
+- Port 80 → HTTP
+- Port 443 → HTTPS
+
+---
+
+### 3️⃣ Negociació HTTPS (si és segura)
+Si la web utilitza HTTPS:
+
+- Es valida el certificat SSL/TLS.
+- Es crea una connexió xifrada.
+
+---
+
+### 4️⃣ Petició HTTP
+El navegador envia una sol·licitud al servidor:
+
+
+---
+
+### 5️⃣ Resposta del servidor
+El servidor web respon amb:
+
+- Codi d’estat (200, 404, 500…)
+- Contingut HTML
+- Recursos addicionals (CSS, JS, imatges)
+
+---
+
+### 6️⃣ Renderització
+El navegador interpreta el contingut i mostra la pàgina web a l’usuari.
+
+---
+
+## 🖥️ Components implicats
+
+- Navegador web (client)
+- Servidor DNS
+- Servidor web (Apache / Nginx / IIS)
+- Protocol HTTP/HTTPS
+- Xarxa Internet
+
+---
+
+## 🔐 Aspectes de seguretat importants
+
+- Ús de HTTPS i certificats SSL/TLS
+- Actualització del servidor web
+- Control d’accessos
+- Protecció contra atacs comuns (XSS, SQL Injection, DDoS)
+
+---
+
+## 📚 Material de suport
+
+- UD5.AA1 — El servei web (Moodle Serveis de Xarxa)
+
+---
+
+## ✅ Resultats esperats
+
+Al final de la formació s’ha de ser capaç de:
+
+- Explicar el funcionament del protocol HTTP.
+- Entendre la comunicació client-servidor.
+- Configurar serveis web bàsics.
+- Superar l’examen final de competència tècnica.
+
+---
+
+## 🚀 Aplicació al projecte empresarial
+
+Aquest coneixement permetrà oferir serveis professionals com:
+
+- Hosting web
+- Administració de servidors
+- Optimització del rendiment web
+- Seguretat de serveis online
+
+La comprensió profunda del funcionament d’Internet és clau per diferenciar-se com a consultors IT professionals.
