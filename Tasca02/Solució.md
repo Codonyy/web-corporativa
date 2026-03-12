@@ -9,11 +9,11 @@ Instal·lar Apache en Ubuntu Server:
 - Instal·lar el servei web.
 - Verificar el funcionament del servidor.
 
-![solucio](/Tasca2/img/1.png) 
-![solucio](/Tasca2/img/2.png) 
-![solucio](/Tasca2/img/4.png) 
-![solucio](/Tasca2/img/5.png) 
-![solucio](/Tasca2/img/6.png)
+![solucio](/Tasca02/img/1.png) 
+![solucio](/Tasca02/img/2.png) 
+![solucio](/Tasca02/img/4.png) 
+![solucio](/Tasca02/img/5.png) 
+![solucio](/Tasca02/img/6.png)
 
 Objectiu:
 Garantir que el servei HTTP està operatiu.
