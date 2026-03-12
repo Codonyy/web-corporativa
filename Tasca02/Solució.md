@@ -9,6 +9,12 @@ Instal·lar Apache en Ubuntu Server:
 - Instal·lar el servei web.
 - Verificar el funcionament del servidor.
 
+![solucio](/tasca1/img/1.png) 
+![solucio](/tasca1/img/2.png) 
+![solucio](/tasca1/img/4.png) 
+![solucio](/tasca1/img/5.png) 
+![solucio](/tasca1/img/6.png)
+
 Objectiu:
 Garantir que el servei HTTP està operatiu.
 
@@ -23,6 +29,14 @@ Configurar dos llocs web independents dins el mateix servidor Apache.
 - Cada web ha de tenir el seu directori propi.
 - Configuració independent per domini.
 - Separació clara dels continguts.
+
+![solucio](/tasca1/img/3.png) 
+![solucio](/tasca1/img/7.png) 
+![solucio](/tasca1/img/8.png) 
+![solucio](/tasca1/img/9.png) 
+![solucio](/tasca1/img/10.png) 
+![solucio](/tasca1/img/11.png) 
+![solucio](/tasca1/img/12.png) 
 
 Exemple conceptual:
 
