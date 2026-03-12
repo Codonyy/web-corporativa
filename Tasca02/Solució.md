@@ -54,6 +54,10 @@ Permetre allotjar múltiples webs en un únic servidor.
 
 Configurar la resolució de noms per poder accedir als dominis des de l’entorn de proves.
 
+![solucio](/Tasca02/img/14.png)
+![solucio](/Tasca02/img/15.png)
+![solucio](/Tasca02/img/16.png)
+
 Exemple:
 
 ```
