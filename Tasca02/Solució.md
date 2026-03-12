@@ -76,6 +76,13 @@ Implementar comunicacions xifrades mitjançant HTTPS.
 
 ### Accions
 
+![solucio](/Tasca02/img/17.png)
+![solucio](/Tasca02/img/18.png)
+![solucio](/Tasca02/img/19.png)
+![solucio](/Tasca02/img/20.png)
+![solucio](/Tasca02/img/21.png)
+![solucio](/Tasca02/img/22.png)
+
 - Generar certificats SSL.
 - Activar el mòdul SSL d’Apache.
 - Forçar connexions HTTPS.
@@ -92,6 +99,9 @@ Aplicar configuracions modernes del protocol web:
 - Activació HTTP/2 (si és possible).
 - Compressió de contingut.
 - Millora del temps de resposta.
+
+![solucio](/Tasca02/img/23.png)
+![solucio](/Tasca02/img/24.png)
 
 Objectiu:
 Millorar l’experiència d’usuari i el rendiment del servidor.
