@@ -30,14 +30,14 @@ Configurar dos llocs web independents dins el mateix servidor Apache.
 - Configuració independent per domini.
 - Separació clara dels continguts.
 
-![solucio](/tasca1/img/3.png) 
-![solucio](/tasca1/img/7.png) 
-![solucio](/tasca1/img/8.png) 
-![solucio](/tasca1/img/9.png) 
-![solucio](/tasca1/img/10.png) 
-![solucio](/tasca1/img/11.png) 
-![solucio](/tasca1/img/12.png) 
-![solucio](/tasca1/img/13.png)
+![solucio](/Tasca02/img/3.png) 
+![solucio](/Tasca02/img/7.png) 
+![solucio](/Tasca02/img/8.png) 
+![solucio](/Tasca02/img/9.png) 
+![solucio](/Tasca02/img/10.png) 
+![solucio](/Tasca02/img/11.png) 
+![solucio](/Tasca02/img/12.png) 
+![solucio](/Tasca02/img/13.png)
 
 Exemple conceptual:
 
