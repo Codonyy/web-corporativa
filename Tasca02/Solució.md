@@ -37,6 +37,7 @@ Configurar dos llocs web independents dins el mateix servidor Apache.
 ![solucio](/tasca1/img/10.png) 
 ![solucio](/tasca1/img/11.png) 
 ![solucio](/tasca1/img/12.png) 
+![solucio](/tasca1/img/13.png)
 
 Exemple conceptual:
 
