@@ -110,6 +110,8 @@ Millorar l’experiència d’usuari i el rendiment del servidor.
 
 ## 6. Proves de funcionament
 
+No s'han pogut completar les comprovacións degut a un error
+
 Verificar:
 
 - Accés correcte als dos dominis.
