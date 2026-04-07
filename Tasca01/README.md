@@ -8,6 +8,7 @@ Aquesta activitat forma part del procés de formació tècnica necessari per pre
 L’objectiu és entendre què succeeix realment quan un usuari accedeix a una pàgina web, analitzant els protocols, serveis i mecanismes que funcionen "sota el capó" d’Internet.
 
 La incubadora d’empreses proposa una **formació intensiva sobre el protocol HTTP i els servidors web** per millorar el nivell tècnic de l’equip i poder competir amb empreses del sector.
+
 ---
 
 ## 🎯 Objectius d'aprenentatge
