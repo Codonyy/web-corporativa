@@ -1,19 +1,23 @@
 
-# Web Corporativa de [Nom de l'Empresa]
+# Web Corporativa de Solucions Digitals
 
-Aquesta és la web corporativa de [Nom de l'Empresa], una empresa fictícia dedicada a [descripció breu de l'empresa] dins el mòdul *Projecte Intermodular*.
+Aquesta web corporativa és un projecte local creat per a una empresa fictícia de serveis digitals. El contingut textual és original i creat directament per mi; no s'ha utilitzat cap eina d'IA externa com a font principal.
 
 ## Demostració
 
-[🌐 URL de la web](https://[usuari].github.io/[nom-del-repositori])
+[🌐 URL de la web](https://codonyy.github.io/web-corporativa)
 
-## Tecnologies Utilitzades
+## Contingut i eines
 
-Per la creació d'aquesta web, s'han utilitzat les següents tecnologies i eines:
+- Contingut creat manualment i adaptat a la estructura de la web corporativa.
+- HTML5/CSS3 per a l'estructura i els estils.
+- Estructura de fitxers dins la carpeta `docs` per a la compatibilitat amb GitHub Pages.
 
-- Indiqueu l'eina IA que heu utilitat.
-- HTML5/CSS3
-- Statcounter per l'analítica
+## Fitxers importants
+
+- `docs/index.html` — pàgina principal de la web
+- `docs/styles.css` — estils de la pàgina
+- `docs/images/logo.svg` — logotip vectorial local
 
 ## Autor
 
