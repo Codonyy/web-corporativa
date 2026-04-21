@@ -69,13 +69,50 @@
         <label for="missatge">Missatge</label>
         <textarea id="missatge" name="missatge" rows="5" placeholder="Com et podem ajudar?" required></textarea>
 
+        <div class="form-group checkbox-group">
+          <label class="checkbox-label">
+            <input type="checkbox" id="consentiment-dades" name="consentiment-dades" required>
+            <span>Dono el meu consentiment al tractament de les meves dades d'acord amb la <a href="politica-privacitat.html" target="_blank">Política de Privacitat</a> *</span>
+          </label>
+        </div>
+
+        <div class="form-group checkbox-group">
+          <label class="checkbox-label">
+            <input type="checkbox" id="consentiment-comunicacions" name="consentiment-comunicacions">
+            <span>Autorizo l'enviament de comunicacions comercials d'acord amb l'<a href="avís-legal.html" target="_blank">Avís Legal</a></span>
+          </label>
+        </div>
+
         <button type="submit">Enviar missatge</button>
       </form>
     </section>
   </main>
 
   <footer class="footer">
-    <p>© 2026 Solucions Digitals. Disseny web corporatiu.</p>
+    <div class="footer-content">
+      <p>© 2026 Solucions Digitals. Disseny web corporatiu.</p>
+      <nav class="footer-links">
+        <a href="avís-legal.html">Avís Legal</a>
+        <a href="politica-privacitat.html">Política de Privacitat</a>
+        <a href="politica-cookies.html">Política de Cookies</a>
+      </nav>
+    </div>
   </footer>
+
+  <!-- Cookie Banner -->
+  <div id="cookie-banner" class="cookie-banner">
+    <div class="cookie-content">
+      <div>
+        <h3>Avís sobre Cookies</h3>
+        <p>Aquesta web utilitza cookies per a millorar la teva experiència de navegació. En fer clic a "Acceptar cookies", acceptes el nostre ús de cookies. Pots conèixer més sobre les nostres cookies a la <a href="politica-cookies.html">Política de Cookies</a>.</p>
+      </div>
+      <div class="cookie-buttons">
+        <button id="reject-cookies" class="btn-secondary">Rebutjar</button>
+        <button id="accept-cookies" class="btn">Acceptar</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="scripts.js"></script>
 </body>
 </html>
