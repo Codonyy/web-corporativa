@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e0e7ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f0f4ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="600" height="400" fill="url(#bgGradient)"/>
+  
+  <!-- Computer monitor -->
+  <g id="monitor">
+    <!-- Stand -->
+    <rect x="200" y="280" width="200" height="20" fill="#4f46e5" rx="4"/>
+    <rect x="280" y="300" width="40" height="30" fill="#4f46e5" rx="2"/>
+    
+    <!-- Screen -->
+    <rect x="120" y="80" width="360" height="240" fill="#ffffff" stroke="#4f46e5" stroke-width="3" rx="8"/>
+    
+    <!-- Screen content -->
+    <rect x="135" y="95" width="330" height="30" fill="#2563eb" rx="4"/>
+    <circle cx="150" cy="110" r="8" fill="#ffffff"/>
+    <rect x="170" y="105" width="80" height="10" fill="#ffffff"/>
+    
+    <rect x="135" y="140" width="330" height="15" fill="#e2e8f0" rx="2"/>
+    <rect x="135" y="165" width="330" height="15" fill="#e2e8f0" rx="2"/>
+    <rect x="135" y="190" width="310" height="15" fill="#e2e8f0" rx="2"/>
+    
+    <!-- Decorative dots -->
+    <circle cx="180" cy="240" r="6" fill="#2563eb"/>
+    <circle cx="250" cy="240" r="6" fill="#2563eb"/>
+    <circle cx="320" cy="240" r="6" fill="#2563eb"/>
+  </g>
+  
+  <!-- Floating elements -->
+  <g id="floating-shapes">
+    <circle cx="80" cy="60" r="25" fill="#2563eb" opacity="0.2"/>
+    <circle cx="500" cy="100" r="35" fill="#4f46e5" opacity="0.15"/>
+    <rect x="480" y="280" width="50" height="50" fill="#2563eb" opacity="0.1" rx="8"/>
+  </g>
+</svg>
