@@ -6,22 +6,22 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Check if user has already made a choice
   const cookieConsent = localStorage.getItem('cookieConsent');
-  if (!cookieConsent) {
-    // Show banner if no previous choice
-    cookieBanner.classList.add('show');
+  if (cookieConsent) {
+    // Hide banner if previous choice exists
+    cookieBanner.classList.add('hidden');
   }
 
   // Accept cookies
   acceptCookiesBtn.addEventListener('click', function() {
     localStorage.setItem('cookieConsent', 'accepted');
-    cookieBanner.classList.remove('show');
+    cookieBanner.classList.add('hidden');
     // Here you could load analytics or other tracking scripts
   });
 
   // Reject cookies
   rejectCookiesBtn.addEventListener('click', function() {
     localStorage.setItem('cookieConsent', 'rejected');
-    cookieBanner.classList.remove('show');
+    cookieBanner.classList.add('hidden');
   });
 
   // Form validation
